@@ -1,4 +1,5 @@
 🏃 Personal Fitness Tracker Using Python
+
 A Python-based Personal Fitness Tracker designed to help users monitor their daily physical activities, record exercises, set fitness goals and track their progress.
 
 📌 Project Overview
